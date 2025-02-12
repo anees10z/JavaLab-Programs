@@ -1,12 +1,11 @@
 # JavaLab-Programs
 <hr>
-Basic programs of java <br>
+Basic programs of java
 <hr>
-Author -- Md Anees Khan <br>
+Author -- Md Anees Khan 
 <hr>
-<br>
-Programs List   <br>
-<hr><br>
-1. Find Compound Interest <br>
-2. Find Quotient and Remainder <br>
-3. Find Perfect Square without using external modules
+Programs List 
+<hr>
+Find Compound Interest <br>
+Find Quotient and Remainder <br>
+Find Perfect Square without using external modules
