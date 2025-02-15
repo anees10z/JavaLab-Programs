@@ -9,4 +9,5 @@ Programs List
 Find Compound Interest <br>
 Find Quotient and Remainder <br>
 Find Perfect Square without using external modules <br>
-Fibonacci Series upto n terms
+Fibonacci Series upto n terms <br>
+Check for given Number is Prime or Not
