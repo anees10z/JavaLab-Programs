@@ -1,6 +1,6 @@
 # JavaLab-Programs
 <hr>
-    <marquee style="font-size: 24px; color: red; background-color: yellow; font-weight: bold; padding: 10px;">
+    <marquee>
       JAVA LAB
     </marquee>
 <hr>
