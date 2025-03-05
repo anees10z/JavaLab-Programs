@@ -1,12 +1,11 @@
 # JavaLab-Programs
 <hr>
-!--git pull -- rebase origin main--
-<hr>
+<!--git pull -- rebase origin main-->
 Basic programs of java
 <hr>
 Author -- Md Anees Khan 
 <hr>
-<h1> Programs List: </h1><br>
+<h3> Programs List: </h3>
 <ul>
   <li>Find Compound Interest </li>
   <li>Find Quotient and Remainder</li>
