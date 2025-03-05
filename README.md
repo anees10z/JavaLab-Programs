@@ -1,17 +1,12 @@
 # JavaLab-Programs
 <hr>
-    <marquee>
-      JAVA LAB
-    </marquee>
-<hr>
 git pull -- rebase origin main
 <hr>
 Basic programs of java
 <hr>
 Author -- Md Anees Khan 
 <hr>
-Programs List 
-<hr>
+Programs List: <br>
 Find Compound Interest <br>
 Find Quotient and Remainder <br>
 Find Perfect Square without using external modules <br>
