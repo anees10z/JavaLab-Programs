@@ -11,4 +11,5 @@ Find Quotient and Remainder <br>
 Find Perfect Square without using external modules <br>
 Fibonacci Series upto n terms <br>
 Check for given Number is Prime or Not <br>
-Swaping 2 numbers withouts using 3rd variable 
+Swaping 2 numbers withouts using 3rd variable <br>
+Bank (deposit, withdraw, accInfo)

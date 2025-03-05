@@ -23,5 +23,6 @@ public class SwapWith2Vars {
     System.out.println("\nAfter Swap");
     System.out.println("1st number =  " + a);
     System.out.println("2nd number =  " + b);
+    sc.close();
   }
 }
